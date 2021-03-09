@@ -1,0 +1,3 @@
+include ':mvc'
+include ':mvvm'
+rootProject.name = "Dummy Blog"

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="create_post">create post</string>
+    <string name="comments">comments</string>
+    <string name="user_image">User image</string>
+    <string name="user_id">User ID: %1$d\nPost ID: %2$d</string>
+    <string name="post_id">Post ID: %1$d</string>
+    <string name="create_comment_text">Enter your comment here</string>
+    <string name="comment_string">Name: %1$s\nEmail: %2$s\nBody: %3$s</string>
+    <string name="post_user_id">User ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="name_text">Enter your name</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="body_hint">Enter your comment</string>
+    <string name="comment_header">Comments</string>
+</resources>
